@@ -1,0 +1,441 @@
+_id,nome_centralina,indirizzo,netcd,statcd,nome_comune,nome_provincia,sigla_provincia,coordinate,longitude,latitude,sigla,nome,unita_misura,soglia,soglia_alert
+17,Bari - Kennedy,Piazza R. Kennedy,111,6,Bari,Bari,BA,"E: 656105
+N: 4551478",16.858905,41.099593,NO2,Biossido di azoto,µg/m³,200.0,300.0
+49, Brindisi - Terminal Passeggeri,presso Terninal Passeggeri sulla banchina portuale di Costa Morena,222,3,Brindisi,Brindisi,BR,E: 750422 N: 4503838,17.961687,40.647432,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+19,Bari - Kennedy,Piazza R. Kennedy,111,6,Bari,Bari,BA,"E: 656105
+N: 4551478",16.858905,41.099593,PM10,Polveri inalabili,µg/m³,50.0,150.0
+94,Casamassima - LaPenna,Via Lapenna,111,41,Casamassima,Bari,BA,"E: 661589
+N: 4535223",16.920731,40.953154,PM10,Polveri inalabili,µg/m³,50.0,150.0
+25,Bari - CUS,Lungomare Starita presso CUS BARI,111,32,Bari,Bari,BA,"E: 654877.9
+N: 4555353.6",16.845277,41.134722,NO2,Biossido di azoto,µg/m³,200.0,300.0
+27,Bari - CUS,Lungomare Starita presso CUS BARI,111,32,Bari,Bari,BA,"E: 654877.9
+N: 4555353.6",16.845277,41.134722,PM10,Polveri inalabili,µg/m³,50.0,150.0
+43, Brindisi - Terminal Passeggeri,presso Terninal Passeggeri sulla banchina portuale di Costa Morena,222,3,Brindisi,Brindisi,BR,E: 750422 N: 4503838,17.961687,40.647432,C6H6,Benzene,µg/m³,5.0,10.0
+9,Andria - Via Vaccina,Via Vaccina,111,44,Andria,BAT,BT,"E: 609209
+N: 4565364",16.303939,41.233278,PM10,Polveri inalabili,µg/m³,50.0,150.0
+20,Bari - Cavour,Corso Cavour,111,15,Bari,Bari,BA,"E: 657197
+N: 4554020",16.872552,41.122269,C6H6,Benzene,µg/m³,5.0,10.0
+29,Bari - Carbonara,via Loguercio,111,35,Bari,Bari,BA,"E:656834.6
+N:4548947",16.866944,41.076666,NO2,Biossido di azoto,µg/m³,200.0,300.0
+45, Brindisi - Terminal Passeggeri,presso Terninal Passeggeri sulla banchina portuale di Costa Morena,222,3,Brindisi,Brindisi,BR,E: 750422 N: 4503838,17.961687,40.647432,NO2,Biossido di azoto,µg/m³,200.0,300.0
+10,Andria - Via Vaccina,Via Vaccina,111,44,Andria,BAT,BT,"E: 609209
+N: 4565364",16.303939,41.233278,PM2.5,Polveri respirabili,µg/m³,,
+23,Bari - Cavour,Corso Cavour,111,15,Bari,Bari,BA,"E: 657197
+N: 4554020",16.872552,41.122269,PM10,Polveri inalabili,µg/m³,50.0,150.0
+54,Brindisi -Via Taranto,Via Taranto,222,6,Brindisi,Brindisi,BR,,17.947777,40.634166,PM2.5,Polveri respirabili,µg/m³,,
+24,Bari - Cavour,Corso Cavour,111,15,Bari,Bari,BA,"E: 657197
+N: 4554020",16.872552,41.122269,PM2.5,Polveri respirabili,µg/m³,,
+28,Bari - Carbonara,via Loguercio,111,35,Bari,Bari,BA,"E:656834.6
+N:4548947",16.866944,41.076666,CO,Monossido di carbonio,mg/m³,10.0,12.0
+32,Barletta - Casardi,via Casardi,111,57,Barletta,BAT,BT,"E: 607646
+N: 4574709",16.286111,41.316666,NO2,Biossido di azoto,µg/m³,200.0,300.0
+53,Brindisi -Via Taranto,Via Taranto,222,6,Brindisi,Brindisi,BR,,17.947777,40.634166,PM10,Polveri inalabili,µg/m³,50.0,150.0
+1,Altamura - Via Santeramo,"Via Golgota, Altamura",111,43,Altamura,Bari,BA,"E: 631558
+N: 4520820",16.561015,40.828848,CO,Monossido di carbonio,mg/m³,10.0,12.0
+6,Andria - Via Vaccina,Via Vaccina,111,44,Andria,BAT,BT,"E: 609209
+N: 4565364",16.303939,41.233278,C6H6,Benzene,µg/m³,5.0,10.0
+22,Bari - Cavour,Corso Cavour,111,15,Bari,Bari,BA,"E: 657197
+N: 4554020",16.872552,41.122269,NO2,Biossido di azoto,µg/m³,200.0,300.0
+71,Brindisi - Perrino,Via Crati,222,59,Brindisi,Brindisi,BR,"E:749892.93
+N:4502036.97",17.954778,40.631361,NO2,Biossido di azoto,µg/m³,200.0,300.0
+85,Candela - Scuola,,111,53,Candela,Foggia,FG,"E:
+N:",15.519444,41.133055,O3,Ozono,µg/m³,120.0,180.0
+13,Bari - Caldarola,Via Caldarola,111,3,Bari,Bari,BA,"E: 658520          
+N:4553079",16.888064,41.113542,CO,Monossido di carbonio,mg/m³,10.0,12.0
+37,Barletta - MM Ipercoop,,111,58,Barletta,BAT,BT,"E:
+N:",16.293055,41.318333,H2S,H2S,µg/m³,,
+57,Brindisi - Via dei Mille,Via dei Mille,222,35,Brindisi,Brindisi,BR,,17.938152,40.638748,NO2,Biossido di azoto,µg/m³,200.0,300.0
+77,Brindisi - Cappuccini,Via Cappuccini,222,60,Brindisi,Brindisi,BR,"E:747098.96
+N:4501881.83 ",17.921778,40.630917,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+80,Campi S.na - I.T.C.  Costa ,Via Napoli,222,46,Campi Salentina,Lecce,LE,E: 756857; N: 4476277,18.026509,40.397507,PM10,Polveri inalabili,µg/m³,50.0,150.0
+81,Campi S.na - I.T.C.  Costa ,Via Napoli,222,46,Campi Salentina,Lecce,LE,E: 756857; N: 4476277,18.026509,40.397507,PM2.5,Polveri respirabili,µg/m³,,
+5,Altamura - Via Santeramo,"Via Golgota, Altamura",111,43,Altamura,Bari,BA,"E: 631558
+N: 4520820",16.561015,40.828848,PM2.5,Polveri respirabili,µg/m³,,
+12,Bari - Caldarola,Via Caldarola,111,3,Bari,Bari,BA,"E: 658520          
+N:4553079",16.888064,41.113542,C6H6,Benzene,µg/m³,5.0,10.0
+1878752,Galatina-Colacem,Contrada Piani,83,83,Galatina,Lecce,LE,,18.192856,40.163964,CO,Monossido di carbonio,mg/m³,10.0,12.0
+30,Bari - Carbonara,via Loguercio,111,35,Bari,Bari,BA,"E:656834.6
+N:4548947",16.866944,41.076666,PM10,Polveri inalabili,µg/m³,50.0,150.0
+40,Barletta - MM Ipercoop,,111,58,Barletta,BAT,BT,"E:
+N:",16.293055,41.318333,PM10,Polveri inalabili,µg/m³,50.0,150.0
+48, Brindisi - Terminal Passeggeri,presso Terninal Passeggeri sulla banchina portuale di Costa Morena,222,3,Brindisi,Brindisi,BR,E: 750422 N: 4503838,17.961687,40.647432,PM2.5,Polveri respirabili,µg/m³,,
+70,Brindisi - Perrino,Via Crati,222,59,Brindisi,Brindisi,BR,"E:749892.93
+N:4502036.97",17.954778,40.631361,CO,Monossido di carbonio,mg/m³,10.0,12.0
+72,Brindisi - Perrino,Via Crati,222,59,Brindisi,Brindisi,BR,"E:749892.93
+N:4502036.97",17.954778,40.631361,PM10,Polveri inalabili,µg/m³,50.0,150.0
+89,Candela - Ex Comes,,111,54,Candela,Foggia,FG,"E:
+N:",15.523055,41.173055,NO2,Biossido di azoto,µg/m³,200.0,300.0
+93,Casamassima - LaPenna,Via Lapenna,111,41,Casamassima,Bari,BA,"E: 661589
+N: 4535223",16.920731,40.953154,O3,Ozono,µg/m³,120.0,180.0
+4,Altamura - Via Santeramo,"Via Golgota, Altamura",111,43,Altamura,Bari,BA,"E: 631558
+N: 4520820",16.561015,40.828848,PM10,Polveri inalabili,µg/m³,50.0,150.0
+18,Bari - Kennedy,Piazza R. Kennedy,111,6,Bari,Bari,BA,"E: 656105
+N: 4551478",16.858905,41.099593,O3,Ozono,µg/m³,120.0,180.0
+41,Barletta - MM Ipercoop,,111,58,Barletta,BAT,BT,"E:
+N:",16.293055,41.318333,PM2.5,Polveri respirabili,µg/m³,,
+69,Brindisi - SISRI,Via Curie,222,38,Brindisi,Brindisi,BR,,17.975041,40.624738,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+84,Candela - Scuola,,111,53,Candela,Foggia,FG,"E:
+N:",15.519444,41.133055,NO2,Biossido di azoto,µg/m³,200.0,300.0
+90,Candela - Ex Comes,,111,54,Candela,Foggia,FG,"E:
+N:",15.523055,41.173055,O3,Ozono,µg/m³,120.0,180.0
+103,Cisternino - Via Croce,via Benedetto Croce,222,56,Cisternino,Brindisi,BR,"E: 703972
+N: 4513011",17.415833,40.742777,O3,Ozono,µg/m³,120.0,180.0
+106,Foggia - Via Rosati,"Via Giuseppe Rosati, 139",111,123,Foggia,Foggia,FG,"E: 545819
+N: 4589475",15.548611,41.455555,C6H6,Benzene,µg/m³,5.0,10.0
+112,Francavilla Fontana - Via Filzi,Via Fabio Filzi,222,52,Francavilla Fontana,Brindisi,BR,"E:
+N:",17.588331,40.529163,NO2,Biossido di azoto,µg/m³,200.0,300.0
+124,Guagnano - Villa Baldassarri,Villa Baldassarri,222,13,Guagnano,Lecce,LE,"E:751513
+N:4478431",17.964477,40.418525,PM10,Polveri inalabili,µg/m³,50.0,150.0
+73,Brindisi - Perrino,Via Crati,222,59,Brindisi,Brindisi,BR,"E:749892.93
+N:4502036.97",17.954778,40.631361,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+74,Brindisi - Cappuccini,Via Cappuccini,222,60,Brindisi,Brindisi,BR,"E:747098.96
+N:4501881.83 ",17.921778,40.630917,CO,Monossido di carbonio,mg/m³,10.0,12.0
+97,Ceglie Messapica - Via Martina,via Martina  (Scuola Elementare Papa Giovanni XXIII ),222,55,Ceglie Messapica,Brindisi,BR,"N: 4502847
+E: 712432",17.5125,40.649166,CO,Monossido di carbonio,mg/m³,10.0,12.0
+100,Ceglie Messapica - Via Martina,via Martina  (Scuola Elementare Papa Giovanni XXIII ),222,55,Ceglie Messapica,Brindisi,BR,"N: 4502847
+E: 712432",17.5125,40.649166,PM2.5,Polveri respirabili,µg/m³,,
+111,Francavilla Fontana - Via Filzi,Via Fabio Filzi,222,52,Francavilla Fontana,Brindisi,BR,"E:
+N:",17.588331,40.529163,C6H6,Benzene,µg/m³,5.0,10.0
+147,Maglie - I.T.C. De Castro,"Via Don. L. Sturzo, 4",222,45,Maglie,Lecce,LE,E: 780702; N: 4446683,18.294098,40.123636,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+3,Altamura - Via Santeramo,"Via Golgota, Altamura",111,43,Altamura,Bari,BA,"E: 631558
+N: 4520820",16.561015,40.828848,O3,Ozono,µg/m³,120.0,180.0
+34,Barletta - Casardi,via Casardi,111,57,Barletta,BAT,BT,"E: 607646
+N: 4574709",16.286111,41.316666,PM10,Polveri inalabili,µg/m³,50.0,150.0
+102,Cisternino - Via Croce,via Benedetto Croce,222,56,Cisternino,Brindisi,BR,"E: 703972
+N: 4513011",17.415833,40.742777,NO2,Biossido di azoto,µg/m³,200.0,300.0
+104,Cisternino - Via Croce,via Benedetto Croce,222,56,Cisternino,Brindisi,BR,"E: 703972
+N: 4513011",17.415833,40.742777,PM10,Polveri inalabili,µg/m³,50.0,150.0
+1878754,Galatina-Colacem,Contrada Piani,83,83,Galatina,Lecce,LE,,18.192856,40.163964,PM10,Polveri inalabili,µg/m³,50.0,150.0
+115,Galatina - I.T.C.  La Porta ,Viale degli studenti,222,48,Galatina,Lecce,LE,E:770356; N:4451121,18.174725,40.166947,O3,Ozono,µg/m³,120.0,180.0
+119,Grottaglie - Via XXV Luglio,via XXV luglio,333,27,Grottaglie,Taranto,TA,"N 4490271
+E 705279",17.423879,40.537776,NO2,Biossido di azoto,µg/m³,200.0,300.0
+120,Grottaglie - Via XXV Luglio,via XXV luglio,333,27,Grottaglie,Taranto,TA,"N 4490271
+E 705279",17.423879,40.537776,O3,Ozono,µg/m³,120.0,180.0
+46, Brindisi - Terminal Passeggeri,presso Terninal Passeggeri sulla banchina portuale di Costa Morena,222,3,Brindisi,Brindisi,BR,E: 750422 N: 4503838,17.961687,40.647432,O3,Ozono,µg/m³,120.0,180.0
+125,Guagnano - Villa Baldassarri,Villa Baldassarri,222,13,Guagnano,Lecce,LE,"E:751513
+N:4478431",17.964477,40.418525,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+184,San Severo - Azienda Russo,Localita' Palmori,111,2,San Severo,Foggia,FG,"E:536767
+N:4599538",15.440833,41.546666,O3,Ozono,µg/m³,120.0,180.0
+190,San Severo  - Municipio,,111,5,San Severo,Foggia,FG,"E: 531596 
+N: 4616199
+",15.379722,41.696944,PM10,Polveri inalabili,µg/m³,50.0,150.0
+38,Barletta - MM Ipercoop,,111,58,Barletta,BAT,BT,"E:
+N:",16.293055,41.318333,NO2,Biossido di azoto,µg/m³,200.0,300.0
+105,Cisternino - Via Croce,via Benedetto Croce,222,56,Cisternino,Brindisi,BR,"E: 703972
+N: 4513011",17.415833,40.742777,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+117,Galatina - I.T.C.  La Porta ,Viale degli studenti,222,48,Galatina,Lecce,LE,E:770356; N:4451121,18.174725,40.166947,PM2.5,Polveri respirabili,µg/m³,,
+121,Grottaglie - Via XXV Luglio,via XXV luglio,333,27,Grottaglie,Taranto,TA,"N 4490271
+E 705279",17.423879,40.537776,PM10,Polveri inalabili,µg/m³,50.0,150.0
+128,Lecce - Cerrate,S. Maria Cerrate,222,11,Lecce,Lecce,LE,"E:764242
+N:4483446",18.116386,40.459696,O3,Ozono,µg/m³,120.0,180.0
+133,Lecce - Garigliano,,222,39,Lecce,Lecce,LE,E: 769536  N: 4473048,18.174327,40.364457,CO,Monossido di carbonio,mg/m³,10.0,12.0
+139, Lecce - Libertini,"Piazza Libertini, Lecce",222,72,Lecce,Lecce,LE,E: 769785; N: 4471666,18.176667,40.351945,CO,Monossido di carbonio,mg/m³,10.0,12.0
+35,Barletta - Casardi,via Casardi,111,57,Barletta,BAT,BT,"E: 607646
+N: 4574709",16.286111,41.316666,PM2.5,Polveri respirabili,µg/m³,,
+51,Brindisi -Via Taranto,Via Taranto,222,6,Brindisi,Brindisi,BR,,17.947777,40.634166,CO,Monossido di carbonio,mg/m³,10.0,12.0
+64,Brindisi - Casale,Via San Giusto,222,37,Brindisi,Brindisi,BR,,17.942569,40.650083,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+67,Brindisi - SISRI,Via Curie,222,38,Brindisi,Brindisi,BR,,17.975041,40.624738,NO2,Biossido di azoto,µg/m³,200.0,300.0
+87,Candela - Scuola,,111,53,Candela,Foggia,FG,"E:
+N:",15.519444,41.133055,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+92,Casamassima - LaPenna,Via Lapenna,111,41,Casamassima,Bari,BA,"E: 661589
+N: 4535223",16.920731,40.953154,NO2,Biossido di azoto,µg/m³,200.0,300.0
+108,Foggia - Via Rosati,"Via Giuseppe Rosati, 139",111,123,Foggia,Foggia,FG,"E: 545819
+N: 4589475",15.548611,41.455555,NO2,Biossido di azoto,µg/m³,200.0,300.0
+109,Foggia - Via Rosati,"Via Giuseppe Rosati, 139",111,123,Foggia,Foggia,FG,"E: 545819
+N: 4589475",15.548611,41.455555,PM10,Polveri inalabili,µg/m³,50.0,150.0
+114,Galatina - I.T.C.  La Porta ,Viale degli studenti,222,48,Galatina,Lecce,LE,E:770356; N:4451121,18.174725,40.166947,NO2,Biossido di azoto,µg/m³,200.0,300.0
+131,Lecce - Cerrate,S. Maria Cerrate,222,11,Lecce,Lecce,LE,"E:764242
+N:4483446",18.116386,40.459696,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+138, Lecce - Libertini,"Piazza Libertini, Lecce",222,72,Lecce,Lecce,LE,E: 769785; N: 4471666,18.176667,40.351945,C6H6,Benzene,µg/m³,5.0,10.0
+160,Mesagne - Via Udine,Via Udine,222,7,Mesagne,Brindisi,BR,,17.807998,40.565995,PM10,Polveri inalabili,µg/m³,50.0,150.0
+164,Molfetta - Verdi,P.zza Verdi,111,4,Molfetta,Bari,BA,"E:634595
+N:4562323",16.605253,41.201101,PM10,Polveri inalabili,µg/m³,50.0,150.0
+195,Statte - Via delle Sorgenti,Via Delle Sorgenti,333,17,Statte,Taranto,TA,"N 4492525
+E  686530",17.203325,40.562499,PM10 biora,PM10 orario,µg/m³,50.0,150.0
+196,Statte - Via delle Sorgenti,Via Delle Sorgenti,333,17,Statte,Taranto,TA,"N 4492525
+E  686530",17.203325,40.562499,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+21,Bari - Cavour,Corso Cavour,111,15,Bari,Bari,BA,"E: 657197
+N: 4554020",16.872552,41.122269,CO,Monossido di carbonio,mg/m³,10.0,12.0
+33,Barletta - Casardi,via Casardi,111,57,Barletta,BAT,BT,"E: 607646
+N: 4574709",16.286111,41.316666,O3,Ozono,µg/m³,120.0,180.0
+36,Barletta - MM Ipercoop,,111,58,Barletta,BAT,BT,"E:
+N:",16.293055,41.318333,CO,Monossido di carbonio,mg/m³,10.0,12.0
+55,Brindisi -Via Taranto,Via Taranto,222,6,Brindisi,Brindisi,BR,,17.947777,40.634166,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+126,Lecce - Cerrate,S. Maria Cerrate,222,11,Lecce,Lecce,LE,"E:764242
+N:4483446",18.116386,40.459696,CO,Monossido di carbonio,mg/m³,10.0,12.0
+140, Lecce - Libertini,"Piazza Libertini, Lecce",222,72,Lecce,Lecce,LE,E: 769785; N: 4471666,18.176667,40.351945,NO2,Biossido di azoto,µg/m³,200.0,300.0
+141, Lecce - Libertini,"Piazza Libertini, Lecce",222,72,Lecce,Lecce,LE,E: 769785; N: 4471666,18.176667,40.351945,PM10,Polveri inalabili,µg/m³,50.0,150.0
+143,Maglie - I.T.C. De Castro,"Via Don. L. Sturzo, 4",222,45,Maglie,Lecce,LE,E: 780702; N: 4446683,18.294098,40.123636,CO,Monossido di carbonio,mg/m³,10.0,12.0
+150,Manfredonia - Via dei Mandorli,Via dei Mandorli,111,22,Manfredonia,Foggia,FG,"E:575770
+N:4609022",15.909638,41.629333,NO2,Biossido di azoto,µg/m³,200.0,300.0
+8,Andria - Via Vaccina,Via Vaccina,111,44,Andria,BAT,BT,"E: 609209
+N: 4565364",16.303939,41.233278,NO2,Biossido di azoto,µg/m³,200.0,300.0
+15,Bari - Caldarola,Via Caldarola,111,3,Bari,Bari,BA,"E: 658520          
+N:4553079",16.888064,41.113542,PM10,Polveri inalabili,µg/m³,50.0,150.0
+42,Barletta - MM Ipercoop,,111,58,Barletta,BAT,BT,"E:
+N:",16.293055,41.318333,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+52,Brindisi -Via Taranto,Via Taranto,222,6,Brindisi,Brindisi,BR,,17.947777,40.634166,NO2,Biossido di azoto,µg/m³,200.0,300.0
+58,Brindisi - Via dei Mille,Via dei Mille,222,35,Brindisi,Brindisi,BR,,17.938152,40.638748,PM10,Polveri inalabili,µg/m³,50.0,150.0
+62,Brindisi - Casale,Via San Giusto,222,37,Brindisi,Brindisi,BR,,17.942569,40.650083,PM10,Polveri inalabili,µg/m³,50.0,150.0
+76,Brindisi - Cappuccini,Via Cappuccini,222,60,Brindisi,Brindisi,BR,"E:747098.96
+N:4501881.83 ",17.921778,40.630917,PM10,Polveri inalabili,µg/m³,50.0,150.0
+83,Candela - Scuola,,111,53,Candela,Foggia,FG,"E:
+N:",15.519444,41.133055,CO,Monossido di carbonio,mg/m³,10.0,12.0
+101,Ceglie Messapica - Via Martina,via Martina  (Scuola Elementare Papa Giovanni XXIII ),222,55,Ceglie Messapica,Brindisi,BR,"N: 4502847
+E: 712432",17.5125,40.649166,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+129,Lecce - Cerrate,S. Maria Cerrate,222,11,Lecce,Lecce,LE,"E:764242
+N:4483446",18.116386,40.459696,PM10,Polveri inalabili,µg/m³,50.0,150.0
+47, Brindisi - Terminal Passeggeri,presso Terninal Passeggeri sulla banchina portuale di Costa Morena,222,3,Brindisi,Brindisi,BR,E: 750422 N: 4503838,17.961687,40.647432,PM10,Polveri inalabili,µg/m³,50.0,150.0
+86,Candela - Scuola,,111,53,Candela,Foggia,FG,"E:
+N:",15.519444,41.133055,PM10,Polveri inalabili,µg/m³,50.0,150.0
+91,Candela - Ex Comes,,111,54,Candela,Foggia,FG,"E:
+N:",15.523055,41.173055,PM10,Polveri inalabili,µg/m³,50.0,150.0
+99,Ceglie Messapica - Via Martina,via Martina  (Scuola Elementare Papa Giovanni XXIII ),222,55,Ceglie Messapica,Brindisi,BR,"N: 4502847
+E: 712432",17.5125,40.649166,PM10,Polveri inalabili,µg/m³,50.0,150.0
+107,Foggia - Via Rosati,"Via Giuseppe Rosati, 139",111,123,Foggia,Foggia,FG,"E: 545819
+N: 4589475",15.548611,41.455555,CO,Monossido di carbonio,mg/m³,10.0,12.0
+1878755,Galatina-Colacem,Contrada Piani,83,83,Galatina,Lecce,LE,,18.192856,40.163964,PM2.5,Polveri respirabili,µg/m³,,
+116,Galatina - I.T.C.  La Porta ,Viale degli studenti,222,48,Galatina,Lecce,LE,E:770356; N:4451121,18.174725,40.166947,PM10,Polveri inalabili,µg/m³,50.0,150.0
+123,Guagnano - Villa Baldassarri,Villa Baldassarri,222,13,Guagnano,Lecce,LE,"E:751513
+N:4478431",17.964477,40.418525,NO2,Biossido di azoto,µg/m³,200.0,300.0
+167,Monopoli - Aldo Moro,Viale Aldo Moro,111,42,Monopoli,Bari,BA,"E: 692701
+N: 4535752",17.290285,40.951167,NO2,Biossido di azoto,µg/m³,200.0,300.0
+134,Lecce - Garigliano,,222,39,Lecce,Lecce,LE,E: 769536  N: 4473048,18.174327,40.364457,NO2,Biossido di azoto,µg/m³,200.0,300.0
+31,Barletta - Casardi,via Casardi,111,57,Barletta,BAT,BT,"E: 607646
+N: 4574709",16.286111,41.316666,C6H6,Benzene,µg/m³,5.0,10.0
+44, Brindisi - Terminal Passeggeri,presso Terninal Passeggeri sulla banchina portuale di Costa Morena,222,3,Brindisi,Brindisi,BR,E: 750422 N: 4503838,17.961687,40.647432,CO,Monossido di carbonio,mg/m³,10.0,12.0
+50,Brindisi -Via Taranto,Via Taranto,222,6,Brindisi,Brindisi,BR,,17.947777,40.634166,C6H6,Benzene,µg/m³,5.0,10.0
+68,Brindisi - SISRI,Via Curie,222,38,Brindisi,Brindisi,BR,,17.975041,40.624738,PM10,Polveri inalabili,µg/m³,50.0,150.0
+75,Brindisi - Cappuccini,Via Cappuccini,222,60,Brindisi,Brindisi,BR,"E:747098.96
+N:4501881.83 ",17.921778,40.630917,NO2,Biossido di azoto,µg/m³,200.0,300.0
+78,Campi S.na - I.T.C.  Costa ,Via Napoli,222,46,Campi Salentina,Lecce,LE,E: 756857; N: 4476277,18.026509,40.397507,CO,Monossido di carbonio,mg/m³,10.0,12.0
+1878751,Galatina-Colacem,Contrada Piani,83,83,Galatina,Lecce,LE,,18.192856,40.163964,C6H6,Benzene,µg/m³,5.0,10.0
+118,Galatina - I.T.C.  La Porta ,Viale degli studenti,222,48,Galatina,Lecce,LE,E:770356; N:4451121,18.174725,40.166947,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+130,Lecce - Cerrate,S. Maria Cerrate,222,11,Lecce,Lecce,LE,"E:764242
+N:4483446",18.116386,40.459696,PM2.5,Polveri respirabili,µg/m³,,
+132,Lecce - Garigliano,,222,39,Lecce,Lecce,LE,E: 769536  N: 4473048,18.174327,40.364457,C6H6,Benzene,µg/m³,5.0,10.0
+60,Brindisi - Casale,Via San Giusto,222,37,Brindisi,Brindisi,BR,,17.942569,40.650083,NO2,Biossido di azoto,µg/m³,200.0,300.0
+61,Brindisi - Casale,Via San Giusto,222,37,Brindisi,Brindisi,BR,,17.942569,40.650083,O3,Ozono,µg/m³,120.0,180.0
+110,Foggia - Via Rosati,"Via Giuseppe Rosati, 139",111,123,Foggia,Foggia,FG,"E: 545819
+N: 4589475",15.548611,41.455555,PM2.5,Polveri respirabili,µg/m³,,
+136,Lecce - Garigliano,,222,39,Lecce,Lecce,LE,E: 769536  N: 4473048,18.174327,40.364457,PM2.5,Polveri respirabili,µg/m³,,
+144,Maglie - I.T.C. De Castro,"Via Don. L. Sturzo, 4",222,45,Maglie,Lecce,LE,E: 780702; N: 4446683,18.294098,40.123636,NO2,Biossido di azoto,µg/m³,200.0,300.0
+145,Maglie - I.T.C. De Castro,"Via Don. L. Sturzo, 4",222,45,Maglie,Lecce,LE,E: 780702; N: 4446683,18.294098,40.123636,O3,Ozono,µg/m³,120.0,180.0
+149,Manfredonia - Via dei Mandorli,Via dei Mandorli,111,22,Manfredonia,Foggia,FG,"E:575770
+N:4609022",15.909638,41.629333,CO,Monossido di carbonio,mg/m³,10.0,12.0
+151,Manfredonia - Via dei Mandorli,Via dei Mandorli,111,22,Manfredonia,Foggia,FG,"E:575770
+N:4609022",15.909638,41.629333,PM10,Polveri inalabili,µg/m³,50.0,150.0
+154,Martina Franca - Via Stazione,Via della Stazione,333,26,Martina Franca,Taranto,TA,"N 4508162
+E 697012",17.331939,40.700826,PM10,Polveri inalabili,µg/m³,50.0,150.0
+202,Surbo- Via Croce ,Via B. Croce  S.N. - 73010 SURBO    ,222,20,Surbo,Lecce,LE,"E: 764807
+N: 4478158",18.120835,40.41194,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+148,Manfredonia - Via dei Mandorli,Via dei Mandorli,111,22,Manfredonia,Foggia,FG,"E:575770
+N:4609022",15.909638,41.629333,C6H6,Benzene,µg/m³,5.0,10.0
+152,Martina Franca - Via Stazione,Via della Stazione,333,26,Martina Franca,Taranto,TA,"N 4508162
+E 697012",17.331939,40.700826,C6H6,Benzene,µg/m³,5.0,10.0
+153,Martina Franca - Via Stazione,Via della Stazione,333,26,Martina Franca,Taranto,TA,"N 4508162
+E 697012",17.331939,40.700826,NO2,Biossido di azoto,µg/m³,200.0,300.0
+157,Massafra -Via Frappietri,Via Frappietri,333,55,Massafra,Taranto,TA,E: 679111.69  N:4495815.60,17.11669,40.593761,PM10,Polveri inalabili,µg/m³,50.0,150.0
+161,Mesagne - Via Udine,Via Udine,222,7,Mesagne,Brindisi,BR,,17.807998,40.565995,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+171,Monopoli - ItalGreen (Liceo Artistico L. Russo),Via Cosimo Pisonio,111,45,Monopoli,Bari,BA,"E: 692229
+N: 4537004",17.284267,40.961578,NO2,Biossido di azoto,µg/m³,200.0,300.0
+172,Monopoli - ItalGreen (Liceo Artistico L. Russo),Via Cosimo Pisonio,111,45,Monopoli,Bari,BA,"E: 692229
+N: 4537004",17.284267,40.961578,PM10,Polveri inalabili,µg/m³,50.0,150.0
+175,Monte S. Angelo - Ciuffreda,Suolo Ciuffreda,111,25,Monte Sant Angelo,Foggia,FG,"E:578692m
+N:4613137m",15.945254,41.666109,O3,Ozono,µg/m³,120.0,180.0
+185,San Severo - Azienda Russo,Localita' Palmori,111,2,San Severo,Foggia,FG,"E:536767
+N:4599538",15.440833,41.546666,PM10,Polveri inalabili,µg/m³,50.0,150.0
+2,Altamura - Via Santeramo,"Via Golgota, Altamura",111,43,Altamura,Bari,BA,"E: 631558
+N: 4520820",16.561015,40.828848,NO2,Biossido di azoto,µg/m³,200.0,300.0
+7,Andria - Via Vaccina,Via Vaccina,111,44,Andria,BAT,BT,"E: 609209
+N: 4565364",16.303939,41.233278,CO,Monossido di carbonio,mg/m³,10.0,12.0
+11,Arnesano - Riesci,Zona Riesci,222,14,Arnesano,Lecce,LE,"E:762876
+N:4470790",18.095074,40.34627,PM10,Polveri inalabili,µg/m³,50.0,150.0
+16,Bari - Caldarola,Via Caldarola,111,3,Bari,Bari,BA,"E: 658520          
+N:4553079",16.888064,41.113542,PM2.5,Polveri respirabili,µg/m³,,
+39,Barletta - MM Ipercoop,,111,58,Barletta,BAT,BT,"E:
+N:",16.293055,41.318333,O3,Ozono,µg/m³,120.0,180.0
+63,Brindisi - Casale,Via San Giusto,222,37,Brindisi,Brindisi,BR,,17.942569,40.650083,PM2.5,Polveri respirabili,µg/m³,,
+82,Candela - Scuola,,111,53,Candela,Foggia,FG,"E:
+N:",15.519444,41.133055,C6H6,Benzene,µg/m³,5.0,10.0
+1878753,Galatina-Colacem,Contrada Piani,83,83,Galatina,Lecce,LE,,18.192856,40.163964,NO2,Biossido di azoto,µg/m³,200.0,300.0
+113,Galatina - I.T.C.  La Porta ,Viale degli studenti,222,48,Galatina,Lecce,LE,E:770356; N:4451121,18.174725,40.166947,CO,Monossido di carbonio,mg/m³,10.0,12.0
+159,Mesagne - Via Udine,Via Udine,222,7,Mesagne,Brindisi,BR,,17.807998,40.565995,NO2,Biossido di azoto,µg/m³,200.0,300.0
+155,Massafra -Via Frappietri,Via Frappietri,333,55,Massafra,Taranto,TA,E: 679111.69  N:4495815.60,17.11669,40.593761,C6H6,Benzene,µg/m³,5.0,10.0
+14,Bari - Caldarola,Via Caldarola,111,3,Bari,Bari,BA,"E: 658520          
+N:4553079",16.888064,41.113542,NO2,Biossido di azoto,µg/m³,200.0,300.0
+56,Brindisi - Via dei Mille,Via dei Mille,222,35,Brindisi,Brindisi,BR,,17.938152,40.638748,C6H6,Benzene,µg/m³,5.0,10.0
+66,Brindisi - SISRI,Via Curie,222,38,Brindisi,Brindisi,BR,,17.975041,40.624738,CO,Monossido di carbonio,mg/m³,10.0,12.0
+79,Campi S.na - I.T.C.  Costa ,Via Napoli,222,46,Campi Salentina,Lecce,LE,E: 756857; N: 4476277,18.026509,40.397507,NO2,Biossido di azoto,µg/m³,200.0,300.0
+95,Casamassima - LaPenna,Via Lapenna,111,41,Casamassima,Bari,BA,"E: 661589
+N: 4535223",16.920731,40.953154,PM2.5,Polveri respirabili,µg/m³,,
+96,Ceglie Messapica - Via Martina,via Martina  (Scuola Elementare Papa Giovanni XXIII ),222,55,Ceglie Messapica,Brindisi,BR,"N: 4502847
+E: 712432",17.5125,40.649166,C6H6,Benzene,µg/m³,5.0,10.0
+1878756,Galatina-Colacem,Contrada Piani,83,83,Galatina,Lecce,LE,,18.192856,40.163964,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+122,Grottaglie - Via XXV Luglio,via XXV luglio,333,27,Grottaglie,Taranto,TA,"N 4490271
+E 705279",17.423879,40.537776,PM10 biora,PM10 orario,µg/m³,50.0,150.0
+127,Lecce - Cerrate,S. Maria Cerrate,222,11,Lecce,Lecce,LE,"E:764242
+N:4483446",18.116386,40.459696,NO2,Biossido di azoto,µg/m³,200.0,300.0
+142, Lecce - Libertini,"Piazza Libertini, Lecce",222,72,Lecce,Lecce,LE,E: 769785; N: 4471666,18.176667,40.351945,PM2.5,Polveri respirabili,µg/m³,,
+194,Statte - Via delle Sorgenti,Via Delle Sorgenti,333,17,Statte,Taranto,TA,"N 4492525
+E  686530",17.203325,40.562499,PM10,Polveri inalabili,µg/m³,50.0,150.0
+156,Massafra -Via Frappietri,Via Frappietri,333,55,Massafra,Taranto,TA,E: 679111.69  N:4495815.60,17.11669,40.593761,NO2,Biossido di azoto,µg/m³,200.0,300.0
+158,Massafra -Via Frappietri,Via Frappietri,333,55,Massafra,Taranto,TA,E: 679111.69  N:4495815.60,17.11669,40.593761,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+163,Molfetta - Verdi,P.zza Verdi,111,4,Molfetta,Bari,BA,"E:634595
+N:4562323",16.605253,41.201101,NO2,Biossido di azoto,µg/m³,200.0,300.0
+168,Monopoli - Aldo Moro,Viale Aldo Moro,111,42,Monopoli,Bari,BA,"E: 692701
+N: 4535752",17.290285,40.951167,PM10,Polveri inalabili,µg/m³,50.0,150.0
+169,Monopoli - Aldo Moro,Viale Aldo Moro,111,42,Monopoli,Bari,BA,"E: 692701
+N: 4535752",17.290285,40.951167,PM2.5,Polveri respirabili,µg/m³,,
+174,Monte S. Angelo - Ciuffreda,Suolo Ciuffreda,111,25,Monte Sant Angelo,Foggia,FG,"E:578692m
+N:4613137m",15.945254,41.666109,NO2,Biossido di azoto,µg/m³,200.0,300.0
+176,Monte S. Angelo - Ciuffreda,Suolo Ciuffreda,111,25,Monte Sant Angelo,Foggia,FG,"E:578692m
+N:4613137m",15.945254,41.666109,PM10,Polveri inalabili,µg/m³,50.0,150.0
+187,San Severo  - Municipio,,111,5,San Severo,Foggia,FG,"E: 531596 
+N: 4616199
+",15.379722,41.696944,CO,Monossido di carbonio,mg/m³,10.0,12.0
+191,San Severo  - Municipio,,111,5,San Severo,Foggia,FG,"E: 531596 
+N: 4616199
+",15.379722,41.696944,PM2.5,Polveri respirabili,µg/m³,,
+26,Bari - CUS,Lungomare Starita presso CUS BARI,111,32,Bari,Bari,BA,"E: 654877.9
+N: 4555353.6",16.845277,41.134722,O3,Ozono,µg/m³,120.0,180.0
+59,Brindisi - Via dei Mille,Via dei Mille,222,35,Brindisi,Brindisi,BR,,17.938152,40.638748,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+65,Brindisi - SISRI,Via Curie,222,38,Brindisi,Brindisi,BR,,17.975041,40.624738,C6H6,Benzene,µg/m³,5.0,10.0
+146,Maglie - I.T.C. De Castro,"Via Don. L. Sturzo, 4",222,45,Maglie,Lecce,LE,E: 780702; N: 4446683,18.294098,40.123636,PM2.5,Polveri respirabili,µg/m³,,
+162,Molfetta - Verdi,P.zza Verdi,111,4,Molfetta,Bari,BA,"E:634595
+N:4562323",16.605253,41.201101,C6H6,Benzene,µg/m³,5.0,10.0
+165,Monopoli - Aldo Moro,Viale Aldo Moro,111,42,Monopoli,Bari,BA,"E: 692701
+N: 4535752",17.290285,40.951167,C6H6,Benzene,µg/m³,5.0,10.0
+173,Monopoli - ItalGreen (Liceo Artistico L. Russo),Via Cosimo Pisonio,111,45,Monopoli,Bari,BA,"E: 692229
+N: 4537004",17.284267,40.961578,PM2.5,Polveri respirabili,µg/m³,,
+177,San Pancrazio Salentino - Via Deledda,,222,10,San Pancrazio Salentino,Brindisi,BR,,17.845999,40.422993,NO2,Biossido di azoto,µg/m³,200.0,300.0
+178,San Pancrazio Salentino - Via Deledda,,222,10,San Pancrazio Salentino,Brindisi,BR,,17.845999,40.422993,PM10,Polveri inalabili,µg/m³,50.0,150.0
+180,San Pietro Vernotico - Stadio,,222,9,San Pietro Vernotico,Brindisi,BR,,18.005994,40.485998,NO2,Biossido di azoto,µg/m³,200.0,300.0
+135,Lecce - Garigliano,,222,39,Lecce,Lecce,LE,E: 769536  N: 4473048,18.174327,40.364457,PM10,Polveri inalabili,µg/m³,50.0,150.0
+166,Monopoli - Aldo Moro,Viale Aldo Moro,111,42,Monopoli,Bari,BA,"E: 692701
+N: 4535752",17.290285,40.951167,CO,Monossido di carbonio,mg/m³,10.0,12.0
+179,San Pancrazio Salentino - Via Deledda,,222,10,San Pancrazio Salentino,Brindisi,BR,,17.845999,40.422993,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+181,San Pietro Vernotico - Stadio,,222,9,San Pietro Vernotico,Brindisi,BR,,18.005994,40.485998,PM10,Polveri inalabili,µg/m³,50.0,150.0
+182,San Pietro Vernotico - Stadio,,222,9,San Pietro Vernotico,Brindisi,BR,,18.005994,40.485998,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+183,San Severo - Azienda Russo,Localita' Palmori,111,2,San Severo,Foggia,FG,"E:536767
+N:4599538",15.440833,41.546666,NO2,Biossido di azoto,µg/m³,200.0,300.0
+188,San Severo  - Municipio,,111,5,San Severo,Foggia,FG,"E: 531596 
+N: 4616199
+",15.379722,41.696944,NO2,Biossido di azoto,µg/m³,200.0,300.0
+189,San Severo  - Municipio,,111,5,San Severo,Foggia,FG,"E: 531596 
+N: 4616199
+",15.379722,41.696944,O3,Ozono,µg/m³,120.0,180.0
+192,Statte - Via delle Sorgenti,Via Delle Sorgenti,333,17,Statte,Taranto,TA,"N 4492525
+E  686530",17.203325,40.562499,IPA TOT,Idrocarburi Policiclici Aromatici,ng/m³,,
+198,Statte - Ponte Wind,ss.7 presso il ponte radio wind,333,33,Statte,Taranto,TA,"N 4488423
+E 684114",17.173611,40.526111,PM10,Polveri inalabili,µg/m³,50.0,150.0
+170,Monopoli - ItalGreen (Liceo Artistico L. Russo),Via Cosimo Pisonio,111,45,Monopoli,Bari,BA,"E: 692229
+N: 4537004",17.284267,40.961578,C6H6,Benzene,µg/m³,5.0,10.0
+186,San Severo - Azienda Russo,Localita' Palmori,111,2,San Severo,Foggia,FG,"E:536767
+N:4599538",15.440833,41.546666,PM2.5,Polveri respirabili,µg/m³,,
+201,Surbo- Via Croce ,Via B. Croce  S.N. - 73010 SURBO    ,222,20,Surbo,Lecce,LE,"E: 764807
+N: 4478158",18.120835,40.41194,PM10,Polveri inalabili,µg/m³,50.0,150.0
+205,Taranto - Archimede,Via Archimede,333,16,Taranto,Taranto,TA,"E 4485033 Km,
+N 689238 Km",17.233048,40.494441,NO2,Biossido di azoto,µg/m³,200.0,300.0
+207,Taranto - Archimede,Via Archimede,333,16,Taranto,Taranto,TA,"E 4485033 Km,
+N 689238 Km",17.233048,40.494441,PM2.5,Polveri respirabili,µg/m³,,
+214,Taranto - San Vito,presso Colonia Marina,333,18,Taranto,Taranto,TA,"N 4477122
+E 688778",17.225272,40.423328,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+215,Taranto - Machiavelli,Via Machiavelli,333,19,Taranto,Taranto,TA,"E 4484370 Km,
+N 688642 Km",17.225823,40.488608,C6H6,Benzene,µg/m³,5.0,10.0
+88,Candela - Ex Comes,,111,54,Candela,Foggia,FG,"E:
+N:",15.523055,41.173055,CO,Monossido di carbonio,mg/m³,10.0,12.0
+199,Statte - Ponte Wind,ss.7 presso il ponte radio wind,333,33,Statte,Taranto,TA,"N 4488423
+E 684114",17.173611,40.526111,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+203,Taranto - Archimede,Via Archimede,333,16,Taranto,Taranto,TA,"E 4485033 Km,
+N 689238 Km",17.233048,40.494441,CO,Monossido di carbonio,mg/m³,10.0,12.0
+204,Taranto - Archimede,Via Archimede,333,16,Taranto,Taranto,TA,"E 4485033 Km,
+N 689238 Km",17.233048,40.494441,H2S,H2S,µg/m³,,
+208,Taranto - Archimede,Via Archimede,333,16,Taranto,Taranto,TA,"E 4485033 Km,
+N 689238 Km",17.233048,40.494441,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+209,Taranto - San Vito,presso Colonia Marina,333,18,Taranto,Taranto,TA,"N 4477122
+E 688778",17.225272,40.423328,CO,Monossido di carbonio,mg/m³,10.0,12.0
+212,Taranto - San Vito,presso Colonia Marina,333,18,Taranto,Taranto,TA,"N 4477122
+E 688778",17.225272,40.423328,O3,Ozono,µg/m³,120.0,180.0
+213,Taranto - San Vito,presso Colonia Marina,333,18,Taranto,Taranto,TA,"N 4477122
+E 688778",17.225272,40.423328,PM10,Polveri inalabili,µg/m³,50.0,150.0
+217,Taranto - Machiavelli,Via Machiavelli,333,19,Taranto,Taranto,TA,"E 4484370 Km,
+N 688642 Km",17.225823,40.488608,IPA TOT,Idrocarburi Policiclici Aromatici,ng/m³,,
+193,Statte - Via delle Sorgenti,Via Delle Sorgenti,333,17,Statte,Taranto,TA,"N 4492525
+E  686530",17.203325,40.562499,NO2,Biossido di azoto,µg/m³,200.0,300.0
+197,Statte - Ponte Wind,ss.7 presso il ponte radio wind,333,33,Statte,Taranto,TA,"N 4488423
+E 684114",17.173611,40.526111,NO2,Biossido di azoto,µg/m³,200.0,300.0
+210,Taranto - San Vito,presso Colonia Marina,333,18,Taranto,Taranto,TA,"N 4477122
+E 688778",17.225272,40.423328,IPA TOT,Idrocarburi Policiclici Aromatici,ng/m³,,
+228,Taranto - Alto Adige,"Via Alto Adige, presso scuola XX Circolo",333,20,Taranto,Taranto,TA,"N 4481337
+E 691924",17.263602,40.460553,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+232,Taranto - Talsano,Talsano - presso scuola U.Foscolo,333,31,Taranto,Taranto,TA,"N 4475985
+E 693783",17.283879,40.411943,PM10,Polveri inalabili,µg/m³,50.0,150.0
+234,Taranto - CISI,q.re Paolo VI - presso CISI Puglia,333,34,Taranto,Taranto,TA,E 690889 N 4488018,17.253416,40.520934,C6H6,Benzene,µg/m³,5.0,10.0
+244,Torchiarolo-Don Minzoni,P.za Don Minzoni,222,8,Torchiarolo,Brindisi,BR,,18.053991,40.487999,PM10,Polveri inalabili,µg/m³,50.0,150.0
+137,Lecce - Garigliano,,222,39,Lecce,Lecce,LE,E: 769536  N: 4473048,18.174327,40.364457,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+200,Surbo- Via Croce ,Via B. Croce  S.N. - 73010 SURBO    ,222,20,Surbo,Lecce,LE,"E: 764807
+N: 4478158",18.120835,40.41194,NO2,Biossido di azoto,µg/m³,200.0,300.0
+211,Taranto - San Vito,presso Colonia Marina,333,18,Taranto,Taranto,TA,"N 4477122
+E 688778",17.225272,40.423328,NO2,Biossido di azoto,µg/m³,200.0,300.0
+216,Taranto - Machiavelli,Via Machiavelli,333,19,Taranto,Taranto,TA,"E 4484370 Km,
+N 688642 Km",17.225823,40.488608,CO,Monossido di carbonio,mg/m³,10.0,12.0
+218,Taranto - Machiavelli,Via Machiavelli,333,19,Taranto,Taranto,TA,"E 4484370 Km,
+N 688642 Km",17.225823,40.488608,NO2,Biossido di azoto,µg/m³,200.0,300.0
+224,Taranto - Alto Adige,"Via Alto Adige, presso scuola XX Circolo",333,20,Taranto,Taranto,TA,"N 4481337
+E 691924",17.263602,40.460553,IPA TOT,Idrocarburi Policiclici Aromatici,ng/m³,,
+225,Taranto - Alto Adige,"Via Alto Adige, presso scuola XX Circolo",333,20,Taranto,Taranto,TA,"N 4481337
+E 691924",17.263602,40.460553,NO2,Biossido di azoto,µg/m³,200.0,300.0
+226,Taranto - Alto Adige,"Via Alto Adige, presso scuola XX Circolo",333,20,Taranto,Taranto,TA,"N 4481337
+E 691924",17.263602,40.460553,PM10,Polveri inalabili,µg/m³,50.0,150.0
+98,Ceglie Messapica - Via Martina,via Martina  (Scuola Elementare Papa Giovanni XXIII ),222,55,Ceglie Messapica,Brindisi,BR,"N: 4502847
+E: 712432",17.5125,40.649166,NO2,Biossido di azoto,µg/m³,200.0,300.0
+206,Taranto - Archimede,Via Archimede,333,16,Taranto,Taranto,TA,"E 4485033 Km,
+N 689238 Km",17.233048,40.494441,PM10,Polveri inalabili,µg/m³,50.0,150.0
+219,Taranto - Machiavelli,Via Machiavelli,333,19,Taranto,Taranto,TA,"E 4484370 Km,
+N 688642 Km",17.225823,40.488608,PM10,Polveri inalabili,µg/m³,50.0,150.0
+233,Taranto - Talsano,Talsano - presso scuola U.Foscolo,333,31,Taranto,Taranto,TA,"N 4475985
+E 693783",17.283879,40.411943,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+236,Taranto - CISI,q.re Paolo VI - presso CISI Puglia,333,34,Taranto,Taranto,TA,E 690889 N 4488018,17.253416,40.520934,IPA TOT,Idrocarburi Policiclici Aromatici,ng/m³,,
+240,Taranto - CISI,q.re Paolo VI - presso CISI Puglia,333,34,Taranto,Taranto,TA,E 690889 N 4488018,17.253416,40.520934,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+242,Torchiarolo-Don Minzoni,P.za Don Minzoni,222,8,Torchiarolo,Brindisi,BR,,18.053991,40.487999,CO,Monossido di carbonio,mg/m³,10.0,12.0
+220,Taranto - Machiavelli,Via Machiavelli,333,19,Taranto,Taranto,TA,"E 4484370 Km,
+N 688642 Km",17.225823,40.488608,PM2.5,Polveri respirabili,µg/m³,,
+227,Taranto - Alto Adige,"Via Alto Adige, presso scuola XX Circolo",333,20,Taranto,Taranto,TA,"N 4481337
+E 691924",17.263602,40.460553,PM2.5,Polveri respirabili,µg/m³,,
+229,Taranto - Talsano,Talsano - presso scuola U.Foscolo,333,31,Taranto,Taranto,TA,"N 4475985
+E 693783",17.283879,40.411943,IPA TOT,Idrocarburi Policiclici Aromatici,ng/m³,,
+230,Taranto - Talsano,Talsano - presso scuola U.Foscolo,333,31,Taranto,Taranto,TA,"N 4475985
+E 693783",17.283879,40.411943,NO2,Biossido di azoto,µg/m³,200.0,300.0
+241,Torchiarolo-Don Minzoni,P.za Don Minzoni,222,8,Torchiarolo,Brindisi,BR,,18.053991,40.487999,C6H6,Benzene,µg/m³,5.0,10.0
+221,Taranto - Machiavelli,Via Machiavelli,333,19,Taranto,Taranto,TA,"E 4484370 Km,
+N 688642 Km",17.225823,40.488608,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+222,Taranto - Alto Adige,"Via Alto Adige, presso scuola XX Circolo",333,20,Taranto,Taranto,TA,"N 4481337
+E 691924",17.263602,40.460553,C6H6,Benzene,µg/m³,5.0,10.0
+223,Taranto - Alto Adige,"Via Alto Adige, presso scuola XX Circolo",333,20,Taranto,Taranto,TA,"N 4481337
+E 691924",17.263602,40.460553,CO,Monossido di carbonio,mg/m³,10.0,12.0
+231,Taranto - Talsano,Talsano - presso scuola U.Foscolo,333,31,Taranto,Taranto,TA,"N 4475985
+E 693783",17.283879,40.411943,O3,Ozono,µg/m³,120.0,180.0
+235,Taranto - CISI,q.re Paolo VI - presso CISI Puglia,333,34,Taranto,Taranto,TA,E 690889 N 4488018,17.253416,40.520934,CO,Monossido di carbonio,mg/m³,10.0,12.0
+237,Taranto - CISI,q.re Paolo VI - presso CISI Puglia,333,34,Taranto,Taranto,TA,E 690889 N 4488018,17.253416,40.520934,NO2,Biossido di azoto,µg/m³,200.0,300.0
+238,Taranto - CISI,q.re Paolo VI - presso CISI Puglia,333,34,Taranto,Taranto,TA,E 690889 N 4488018,17.253416,40.520934,PM10,Polveri inalabili,µg/m³,50.0,150.0
+239,Taranto - CISI,q.re Paolo VI - presso CISI Puglia,333,34,Taranto,Taranto,TA,E 690889 N 4488018,17.253416,40.520934,PM2.5,Polveri respirabili,µg/m³,,
+243,Torchiarolo-Don Minzoni,P.za Don Minzoni,222,8,Torchiarolo,Brindisi,BR,,18.053991,40.487999,NO2,Biossido di azoto,µg/m³,200.0,300.0
+245,Torchiarolo-Don Minzoni,P.za Don Minzoni,222,8,Torchiarolo,Brindisi,BR,,18.053991,40.487999,PM10 biora,PM10 orario,µg/m³,50.0,150.0
+247,Torchiarolo-Don Minzoni,P.za Don Minzoni,222,8,Torchiarolo,Brindisi,BR,,18.053991,40.487999,PM2.5,Polveri respirabili,µg/m³,,
+248,Torchiarolo-Don Minzoni,P.za Don Minzoni,222,8,Torchiarolo,Brindisi,BR,,18.053991,40.487999,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+249,Torchiarolo-Lendinuso,C.da MONTEVACCARO SN - 72020 TORCHIAROLO      ,222,53,Torchiarolo,Brindisi,BR,"E: 760838
+N: 4489753",18.07888,40.517502,NO2,Biossido di azoto,µg/m³,200.0,300.0
+255,Torchiarolo - Fanin     ,Via FANIN SN - 72020 TORCHIAROLO      ,222,54,Torchiarolo,Brindisi,BR,"E:758263
+N: 4486545",18.047226,40.489447,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+250,Torchiarolo-Lendinuso,C.da MONTEVACCARO SN - 72020 TORCHIAROLO      ,222,53,Torchiarolo,Brindisi,BR,"E: 760838
+N: 4489753",18.07888,40.517502,PM10,Polveri inalabili,µg/m³,50.0,150.0
+254,Torchiarolo - Fanin     ,Via FANIN SN - 72020 TORCHIAROLO      ,222,54,Torchiarolo,Brindisi,BR,"E:758263
+N: 4486545",18.047226,40.489447,PM2.5,Polveri respirabili,µg/m³,,
+246,Torchiarolo-Don Minzoni,P.za Don Minzoni,222,8,Torchiarolo,Brindisi,BR,,18.053991,40.487999,PM10 ENV,Particelle sospese PM10 ENV,µg/m³,,
+251,Torchiarolo-Lendinuso,C.da MONTEVACCARO SN - 72020 TORCHIAROLO      ,222,53,Torchiarolo,Brindisi,BR,"E: 760838
+N: 4489753",18.07888,40.517502,SO2,Biossido di zolfo,µg/m³,350.0,125.0
+252,Torchiarolo - Fanin     ,Via FANIN SN - 72020 TORCHIAROLO      ,222,54,Torchiarolo,Brindisi,BR,"E:758263
+N: 4486545",18.047226,40.489447,NO2,Biossido di azoto,µg/m³,200.0,300.0
+253,Torchiarolo - Fanin     ,Via FANIN SN - 72020 TORCHIAROLO      ,222,54,Torchiarolo,Brindisi,BR,"E:758263
+N: 4486545",18.047226,40.489447,PM10,Polveri inalabili,µg/m³,50.0,150.0

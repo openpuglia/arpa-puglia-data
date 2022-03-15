@@ -1,0 +1,277 @@
+nome_centralina;nome_comune;sigla;nome;unita_misura;soglia;soglia_alert
+Altamura - Via Santeramo;Altamura;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Altamura - Via Santeramo;Altamura;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Altamura - Via Santeramo;Altamura;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Altamura - Via Santeramo;Altamura;O3;Ozono;µg/m³;120.0;180.0
+Altamura - Via Santeramo;Altamura;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Andria - Via Vaccina;Andria;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Andria - Via Vaccina;Andria;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Andria - Via Vaccina;Andria;C6H6;Benzene;µg/m³;5.0;10.0
+Andria - Via Vaccina;Andria;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Andria - Via Vaccina;Andria;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Arnesano - Riesci;Arnesano;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Bari - Caldarola;Bari;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Bari - Caldarola;Bari;C6H6;Benzene;µg/m³;5.0;10.0
+Bari - Caldarola;Bari;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Bari - Caldarola;Bari;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Bari - Caldarola;Bari;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Bari - Carbonara;Bari;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Bari - Carbonara;Bari;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Bari - Carbonara;Bari;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Bari - Cavour;Bari;C6H6;Benzene;µg/m³;5.0;10.0
+Bari - Cavour;Bari;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Bari - Cavour;Bari;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Bari - Cavour;Bari;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Bari - Cavour;Bari;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Bari - CUS;Bari;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Bari - CUS;Bari;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Bari - CUS;Bari;O3;Ozono;µg/m³;120.0;180.0
+Bari - Kennedy;Bari;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Bari - Kennedy;Bari;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Bari - Kennedy;Bari;O3;Ozono;µg/m³;120.0;180.0
+Barletta - Casardi;Barletta;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Barletta - Casardi;Barletta;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Barletta - Casardi;Barletta;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Barletta - Casardi;Barletta;O3;Ozono;µg/m³;120.0;180.0
+Barletta - Casardi;Barletta;C6H6;Benzene;µg/m³;5.0;10.0
+Barletta - MM Ipercoop;Barletta;H2S;H2S;µg/m³;;
+Barletta - MM Ipercoop;Barletta;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Barletta - MM Ipercoop;Barletta;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Barletta - MM Ipercoop;Barletta;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Barletta - MM Ipercoop;Barletta;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Barletta - MM Ipercoop;Barletta;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Barletta - MM Ipercoop;Barletta;O3;Ozono;µg/m³;120.0;180.0
+Brindisi - Cappuccini;Brindisi;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Brindisi - Cappuccini;Brindisi;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Brindisi - Cappuccini;Brindisi;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Brindisi - Cappuccini;Brindisi;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Brindisi - Casale;Brindisi;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Brindisi - Casale;Brindisi;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Brindisi - Casale;Brindisi;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Brindisi - Casale;Brindisi;O3;Ozono;µg/m³;120.0;180.0
+Brindisi - Casale;Brindisi;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Brindisi - Perrino;Brindisi;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Brindisi - Perrino;Brindisi;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Brindisi - Perrino;Brindisi;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Brindisi - Perrino;Brindisi;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Brindisi - SISRI;Brindisi;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Brindisi - SISRI;Brindisi;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Brindisi - SISRI;Brindisi;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Brindisi - SISRI;Brindisi;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Brindisi - SISRI;Brindisi;C6H6;Benzene;µg/m³;5.0;10.0
+Brindisi - Terminal Passeggeri;Brindisi;C6H6;Benzene;µg/m³;5.0;10.0
+Brindisi - Terminal Passeggeri;Brindisi;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Brindisi - Terminal Passeggeri;Brindisi;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Brindisi - Terminal Passeggeri;Brindisi;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Brindisi - Terminal Passeggeri;Brindisi;O3;Ozono;µg/m³;120.0;180.0
+Brindisi - Terminal Passeggeri;Brindisi;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Brindisi - Terminal Passeggeri;Brindisi;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Brindisi - Via dei Mille;Brindisi;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Brindisi - Via dei Mille;Brindisi;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Brindisi - Via dei Mille;Brindisi;C6H6;Benzene;µg/m³;5.0;10.0
+Brindisi - Via dei Mille;Brindisi;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Brindisi -Via Taranto;Brindisi;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Brindisi -Via Taranto;Brindisi;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Brindisi -Via Taranto;Brindisi;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Brindisi -Via Taranto;Brindisi;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Brindisi -Via Taranto;Brindisi;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Brindisi -Via Taranto;Brindisi;C6H6;Benzene;µg/m³;5.0;10.0
+Campi S.na - I.T.C.  Costa ;Campi Salentina;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Campi S.na - I.T.C.  Costa ;Campi Salentina;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Campi S.na - I.T.C.  Costa ;Campi Salentina;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Campi S.na - I.T.C.  Costa ;Campi Salentina;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Candela - Ex Comes;Candela;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Candela - Ex Comes;Candela;O3;Ozono;µg/m³;120.0;180.0
+Candela - Ex Comes;Candela;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Candela - Ex Comes;Candela;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Candela - Scuola;Candela;O3;Ozono;µg/m³;120.0;180.0
+Candela - Scuola;Candela;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Candela - Scuola;Candela;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Candela - Scuola;Candela;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Candela - Scuola;Candela;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Candela - Scuola;Candela;C6H6;Benzene;µg/m³;5.0;10.0
+Casamassima - LaPenna;Casamassima;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Casamassima - LaPenna;Casamassima;O3;Ozono;µg/m³;120.0;180.0
+Casamassima - LaPenna;Casamassima;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Casamassima - LaPenna;Casamassima;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Ceglie Messapica - Via Martina;Ceglie Messapica;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Ceglie Messapica - Via Martina;Ceglie Messapica;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Ceglie Messapica - Via Martina;Ceglie Messapica;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Ceglie Messapica - Via Martina;Ceglie Messapica;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Ceglie Messapica - Via Martina;Ceglie Messapica;C6H6;Benzene;µg/m³;5.0;10.0
+Ceglie Messapica - Via Martina;Ceglie Messapica;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Cisternino - Via Croce;Cisternino;O3;Ozono;µg/m³;120.0;180.0
+Cisternino - Via Croce;Cisternino;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Cisternino - Via Croce;Cisternino;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Cisternino - Via Croce;Cisternino;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Foggia - Via Rosati;Foggia;C6H6;Benzene;µg/m³;5.0;10.0
+Foggia - Via Rosati;Foggia;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Foggia - Via Rosati;Foggia;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Foggia - Via Rosati;Foggia;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Foggia - Via Rosati;Foggia;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Francavilla Fontana - Via Filzi;Francavilla Fontana;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Francavilla Fontana - Via Filzi;Francavilla Fontana;C6H6;Benzene;µg/m³;5.0;10.0
+Galatina - I.T.C.  La Porta ;Galatina;O3;Ozono;µg/m³;120.0;180.0
+Galatina - I.T.C.  La Porta ;Galatina;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Galatina - I.T.C.  La Porta ;Galatina;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Galatina - I.T.C.  La Porta ;Galatina;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Galatina - I.T.C.  La Porta ;Galatina;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Galatina - I.T.C.  La Porta ;Galatina;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Galatina-Colacem;Galatina;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Galatina-Colacem;Galatina;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Galatina-Colacem;Galatina;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Galatina-Colacem;Galatina;C6H6;Benzene;µg/m³;5.0;10.0
+Galatina-Colacem;Galatina;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Galatina-Colacem;Galatina;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Grottaglie - Via XXV Luglio;Grottaglie;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Grottaglie - Via XXV Luglio;Grottaglie;O3;Ozono;µg/m³;120.0;180.0
+Grottaglie - Via XXV Luglio;Grottaglie;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Grottaglie - Via XXV Luglio;Grottaglie;PM10 biora;PM10 orario;µg/m³;50.0;150.0
+Guagnano - Villa Baldassarri;Guagnano;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Guagnano - Villa Baldassarri;Guagnano;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Guagnano - Villa Baldassarri;Guagnano;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Lecce - Cerrate;Lecce;O3;Ozono;µg/m³;120.0;180.0
+Lecce - Cerrate;Lecce;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Lecce - Cerrate;Lecce;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Lecce - Cerrate;Lecce;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Lecce - Cerrate;Lecce;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Lecce - Cerrate;Lecce;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Lecce - Garigliano;Lecce;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Lecce - Garigliano;Lecce;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Lecce - Garigliano;Lecce;C6H6;Benzene;µg/m³;5.0;10.0
+Lecce - Garigliano;Lecce;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Lecce - Garigliano;Lecce;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Lecce - Garigliano;Lecce;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Lecce - Libertini;Lecce;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Lecce - Libertini;Lecce;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Lecce - Libertini;Lecce;C6H6;Benzene;µg/m³;5.0;10.0
+Lecce - Libertini;Lecce;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Lecce - Libertini;Lecce;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Maglie - I.T.C. De Castro;Maglie;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Maglie - I.T.C. De Castro;Maglie;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Maglie - I.T.C. De Castro;Maglie;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Maglie - I.T.C. De Castro;Maglie;O3;Ozono;µg/m³;120.0;180.0
+Maglie - I.T.C. De Castro;Maglie;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Manfredonia - Via dei Mandorli;Manfredonia;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Manfredonia - Via dei Mandorli;Manfredonia;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Manfredonia - Via dei Mandorli;Manfredonia;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Manfredonia - Via dei Mandorli;Manfredonia;C6H6;Benzene;µg/m³;5.0;10.0
+Martina Franca - Via Stazione;Martina Franca;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Martina Franca - Via Stazione;Martina Franca;C6H6;Benzene;µg/m³;5.0;10.0
+Martina Franca - Via Stazione;Martina Franca;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Massafra -Via Frappietri;Massafra;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Massafra -Via Frappietri;Massafra;C6H6;Benzene;µg/m³;5.0;10.0
+Massafra -Via Frappietri;Massafra;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Massafra -Via Frappietri;Massafra;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Mesagne - Via Udine;Massafra;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Mesagne - Via Udine;Massafra;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Mesagne - Via Udine;Massafra;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Modugno - EN02;Modugno;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Modugno - EN02;Modugno;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Modugno - EN02;Modugno;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Modugno - EN02;Modugno;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Modugno - EN02;Modugno;O3;Ozono;µg/m³;120.0;180.0
+Modugno - EN03;Modugno;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Modugno - EN03;Modugno;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Modugno - EN03;Modugno;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Modugno - EN03;Modugno;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Modugno - EN03;Modugno;O3;Ozono;µg/m³;120.0;180.0
+Modugno - EN04;Modugno;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Modugno - EN04;Modugno;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Modugno - EN04;Modugno;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Modugno - EN04;Modugno;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Modugno - EN04;Modugno;O3;Ozono;µg/m³;120.0;180.0
+Molfetta - Verdi;Molfetta;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Molfetta - Verdi;Molfetta;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Molfetta - Verdi;Molfetta;C6H6;Benzene;µg/m³;5.0;10.0
+Monopoli - Aldo Moro;Monopoli;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Monopoli - Aldo Moro;Monopoli;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Monopoli - Aldo Moro;Monopoli;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Monopoli - Aldo Moro;Monopoli;C6H6;Benzene;µg/m³;5.0;10.0
+Monopoli - Aldo Moro;Monopoli;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Monopoli - ItalGreen (Liceo Artistico L. Russo);Monopoli;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Monopoli - ItalGreen (Liceo Artistico L. Russo);Monopoli;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Monopoli - ItalGreen (Liceo Artistico L. Russo);Monopoli;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Monopoli - ItalGreen (Liceo Artistico L. Russo);Monopoli;C6H6;Benzene;µg/m³;5.0;10.0
+Monte S. Angelo - Ciuffreda;Monte Sant Angelo;O3;Ozono;µg/m³;120.0;180.0
+Monte S. Angelo - Ciuffreda;Monte Sant Angelo;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Monte S. Angelo - Ciuffreda;Monte Sant Angelo;PM10;Polveri inalabili;µg/m³;50.0;150.0
+San Pancrazio Salentino - Via Deledda;San Pancrazio Salentino;NO2;Biossido di azoto;µg/m³;200.0;300.0
+San Pancrazio Salentino - Via Deledda;San Pancrazio Salentino;PM10;Polveri inalabili;µg/m³;50.0;150.0
+San Pancrazio Salentino - Via Deledda;San Pancrazio Salentino;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+San Pietro Vernotico - Stadio;San Pietro Vernotico;NO2;Biossido di azoto;µg/m³;200.0;300.0
+San Pietro Vernotico - Stadio;San Pietro Vernotico;PM10;Polveri inalabili;µg/m³;50.0;150.0
+San Pietro Vernotico - Stadio;San Pietro Vernotico;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+San Severo  - Municipio;San Severo;PM10;Polveri inalabili;µg/m³;50.0;150.0
+San Severo  - Municipio;San Severo;CO;Monossido di carbonio;mg/m³;10.0;12.0
+San Severo  - Municipio;San Severo;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+San Severo  - Municipio;San Severo;NO2;Biossido di azoto;µg/m³;200.0;300.0
+San Severo  - Municipio;San Severo;O3;Ozono;µg/m³;120.0;180.0
+San Severo - Azienda Russo;San Severo;O3;Ozono;µg/m³;120.0;180.0
+San Severo - Azienda Russo;San Severo;PM10;Polveri inalabili;µg/m³;50.0;150.0
+San Severo - Azienda Russo;San Severo;NO2;Biossido di azoto;µg/m³;200.0;300.0
+San Severo - Azienda Russo;San Severo;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Statte - Ponte Wind;Statte;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Statte - Ponte Wind;Statte;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Statte - Ponte Wind;Statte;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Statte - Via delle Sorgenti;Statte;PM10 biora;PM10 orario;µg/m³;50.0;150.0
+Statte - Via delle Sorgenti;Statte;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Statte - Via delle Sorgenti;Statte;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Statte - Via delle Sorgenti;Statte;IPA TOT;Idrocarburi Policiclici Aromatici;ng/m³;;
+Statte - Via delle Sorgenti;Statte;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Surbo- Via Croce ;Surbo;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Surbo- Via Croce ;Surbo;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Surbo- Via Croce ;Surbo;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Taranto - Alto Adige;Taranto;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Taranto - Alto Adige;Taranto;IPA TOT;Idrocarburi Policiclici Aromatici;ng/m³;;
+Taranto - Alto Adige;Taranto;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Taranto - Alto Adige;Taranto;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Taranto - Alto Adige;Taranto;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Taranto - Alto Adige;Taranto;C6H6;Benzene;µg/m³;5.0;10.0
+Taranto - Alto Adige;Taranto;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Taranto - Archimede;Taranto;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Taranto - Archimede;Taranto;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Taranto - Archimede;Taranto;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Taranto - Archimede;Taranto;H2S;H2S;µg/m³;;
+Taranto - Archimede;Taranto;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Taranto - Archimede;Taranto;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Taranto - CISI;Taranto;C6H6;Benzene;µg/m³;5.0;10.0
+Taranto - CISI;Taranto;IPA TOT;Idrocarburi Policiclici Aromatici;ng/m³;;
+Taranto - CISI;Taranto;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Taranto - CISI;Taranto;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Taranto - CISI;Taranto;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Taranto - CISI;Taranto;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Taranto - CISI;Taranto;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Taranto - Machiavelli;Taranto;C6H6;Benzene;µg/m³;5.0;10.0
+Taranto - Machiavelli;Taranto;IPA TOT;Idrocarburi Policiclici Aromatici;ng/m³;;
+Taranto - Machiavelli;Taranto;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Taranto - Machiavelli;Taranto;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Taranto - Machiavelli;Taranto;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Taranto - Machiavelli;Taranto;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Taranto - Machiavelli;Taranto;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Taranto - San Vito;Taranto;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Taranto - San Vito;Taranto;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Taranto - San Vito;Taranto;O3;Ozono;µg/m³;120.0;180.0
+Taranto - San Vito;Taranto;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Taranto - San Vito;Taranto;IPA TOT;Idrocarburi Policiclici Aromatici;ng/m³;;
+Taranto - San Vito;Taranto;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Taranto - Talsano;Taranto;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Taranto - Talsano;Taranto;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Taranto - Talsano;Taranto;IPA TOT;Idrocarburi Policiclici Aromatici;ng/m³;;
+Taranto - Talsano;Taranto;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Taranto - Talsano;Taranto;O3;Ozono;µg/m³;120.0;180.0
+Torchiarolo - Fanin     ;Torchiarolo;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Torchiarolo - Fanin     ;Torchiarolo;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Torchiarolo - Fanin     ;Torchiarolo;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Torchiarolo - Fanin     ;Torchiarolo;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Torchiarolo-Don Minzoni;Torchiarolo;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Torchiarolo-Don Minzoni;Torchiarolo;CO;Monossido di carbonio;mg/m³;10.0;12.0
+Torchiarolo-Don Minzoni;Torchiarolo;C6H6;Benzene;µg/m³;5.0;10.0
+Torchiarolo-Don Minzoni;Torchiarolo;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Torchiarolo-Don Minzoni;Torchiarolo;PM10 biora;PM10 orario;µg/m³;50.0;150.0
+Torchiarolo-Don Minzoni;Torchiarolo;PM2.5;Polveri respirabili;µg/m³;50.0;100.0
+Torchiarolo-Don Minzoni;Torchiarolo;SO2;Biossido di zolfo;µg/m³;350.0;125.0
+Torchiarolo-Don Minzoni;Torchiarolo;PM10 ENV;Particelle sospese PM10 ENV;µg/m³;;
+Torchiarolo-Lendinuso;Torchiarolo;NO2;Biossido di azoto;µg/m³;200.0;300.0
+Torchiarolo-Lendinuso;Torchiarolo;PM10;Polveri inalabili;µg/m³;50.0;150.0
+Torchiarolo-Lendinuso;Torchiarolo;SO2;Biossido di zolfo;µg/m³;350.0;125.0

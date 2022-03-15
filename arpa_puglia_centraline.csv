@@ -1,0 +1,58 @@
+_id;nome_centralina;indirizzo;netcd;statcd;nome_comune;nome_provincia;sigla_provincia;longitude;latitude
+1;Altamura - Via Santeramo;Via Golgota, Altamura;111;43;Altamura;Bari;BA;16.561015;40.828848
+7;Andria - Via Vaccina;Via Vaccina;111;44;Andria;BAT;BT;16.303939;41.233278
+11;Arnesano - Riesci;Zona Riesci;222;14;Arnesano;Lecce;LE;18.095074;40.34627
+13;Bari - Caldarola;Via Caldarola;111;3;Bari;Bari;BA;16.888064;41.113542
+;Bari - Carbonara;Via Loguercio;111;99;Bari;Bari;BA;16.867134;41.077223
+21;Bari - Cavour;Corso Cavour;111;15;Bari;Bari;BA;16.872552;41.122269
+25;Bari - CUS;Lungomare Starita presso CUS BARI;111;32;Bari;Bari;BA;16.845277;41.134722
+18;Bari - Kennedy;Piazza R. Kennedy;111;6;Bari;Bari;BA;16.858905;41.099593
+32;Barletta - Casardi;via Casardi;111;57;Barletta;BAT;BT;16.286111;41.316666
+39;Barletta - MM Ipercoop;;111;58;Barletta;BAT;BT;16.293055;41.318333
+77;Brindisi - Cappuccini;Via Cappuccini;222;60;Brindisi;Brindisi;BR;17.921778;40.630917
+63;Brindisi - Casale;Via San Giusto;222;37;Brindisi;Brindisi;BR;17.942569;40.650083
+71;Brindisi - Perrino;Via Crati;222;59;Brindisi;Brindisi;BR;17.954778;40.631361
+65;Brindisi - SISRI;Via Curie;222;38;Brindisi;Brindisi;BR;17.975041;40.624738
+49;Brindisi - Terminal Passeggeri;presso Terninal Passeggeri sulla banchina portuale di Costa Morena;222;3;Brindisi;Brindisi;BR;17.961687;40.647432
+59;Brindisi - Via dei Mille;Via dei Mille;222;35;Brindisi;Brindisi;BR;17.938152;40.638748
+54;Brindisi -Via Taranto;Via Taranto;222;6;Brindisi;Brindisi;BR;17.947777;40.634166
+79;Campi S.na - I.T.C.  Costa ;Via Napoli;222;46;Campi Salentina;Lecce;LE;18.026509;40.397507
+89;Candela - Ex Comes;;111;54;Candela;Foggia;FG;15.523055;41.173055
+82;Candela - Scuola;;111;53;Candela;Foggia;FG;15.519444;41.133055
+94;Casamassima - LaPenna;Via Lapenna;111;41;Casamassima;Bari;BA;16.920731;40.953154
+98;Ceglie Messapica - Via Martina;via Martina  (Scuola Elementare Papa Giovanni XXIII );222;55;Ceglie Messapica;Brindisi;BR;17.5125;40.649166
+103;Cisternino - Via Croce;via Benedetto Croce;222;56;Cisternino;Brindisi;BR;17.415833;40.742777
+110;Foggia - Via Rosati;Via Giuseppe Rosati, 139;111;123;Foggia;Foggia;FG;15.548611;41.455555
+112;Francavilla Fontana - Via Filzi;Via Fabio Filzi;222;52;Francavilla Fontana;Brindisi;BR;17.588331;40.529163
+113;Galatina - I.T.C.  La Porta ;Viale degli studenti;222;48;Galatina;Lecce;LE;18.174725;40.166947
+1878752;Galatina-Colacem;Contrada Piani;83;83;Galatina;Lecce;LE;18.192856;40.163964
+123;Guagnano - Villa Baldassarri;Villa Baldassarri;222;13;Guagnano;Lecce;LE;17.964477;40.418525
+128;Lecce - Cerrate;S. Maria Cerrate;222;11;Lecce;Lecce;LE;18.116386;40.459696
+137;Lecce - Garigliano;;222;39;Lecce;Lecce;LE;18.174327;40.364457
+138;Lecce - Libertini;Piazza Libertini, Lecce;222;72;Lecce;Lecce;LE;18.176667;40.351945
+146;Maglie - I.T.C. De Castro;Via Don. L. Sturzo, 4;222;45;Maglie;Lecce;LE;18.294098;40.123636
+150;Manfredonia - Via dei Mandorli;Via dei Mandorli;111;22;Manfredonia;Foggia;FG;15.909638;41.629333
+153;Martina Franca - Via Stazione;Via della Stazione;333;26;Martina Franca;Taranto;TA;17.331939;40.700826
+157;Massafra -Via Frappietri;Via Frappietri;333;55;Massafra;Taranto;TA;17.11669;40.593761
+159;Mesagne - Via Udine;Via Udine;222;7;Mesagne;Brindisi;BR;17.807998;40.565995
+999;Modugno - EN03;Via Maranda;;;Modugno;Bari;BA;16.782826;41.0876
+164;Molfetta - Verdi;P.zza Verdi;111;4;Molfetta;Bari;BA;16.605253;41.201101
+166;Monopoli - Aldo Moro;Viale Aldo Moro;111;42;Monopoli;Bari;BA;17.290285;40.951167
+171;Monopoli - ItalGreen (Liceo Artistico L. Russo);Via Cosimo Pisonio;111;45;Monopoli;Bari;BA;17.284267;40.961578
+176;Monte S. Angelo - Ciuffreda;Suolo Ciuffreda;111;25;Monte Sant Angelo;Foggia;FG;15.945254;41.666109
+177;San Pancrazio Salentino - Via Deledda;;222;10;San Pancrazio Salentino;Brindisi;BR;17.845999;40.422993
+182;San Pietro Vernotico - Stadio;;222;9;San Pietro Vernotico;Brindisi;BR;18.005994;40.485998
+190;San Severo  - Municipio;;111;5;San Severo;Foggia;FG;15.379722;41.696944
+186;San Severo - Azienda Russo;Localita' Palmori;111;2;San Severo;Foggia;FG;15.440833;41.546666
+198;Statte - Ponte Wind;ss.7 presso il ponte radio wind;333;33;Statte;Taranto;TA;17.173611;40.526111
+193;Statte - Via delle Sorgenti;Via Delle Sorgenti;333;17;Statte;Taranto;TA;17.203325;40.562499
+202;Surbo- Via Croce ;Via B. Croce  S.N. - 73010 SURBO;222;20;Surbo;Lecce;LE;18.120835;40.41194
+223;Taranto - Alto Adige;Via Alto Adige, presso scuola XX Circolo;333;20;Taranto;Taranto;TA;17.263602;40.460553
+205;Taranto - Archimede;Via Archimede;333;16;Taranto;Taranto;TA;17.233048;40.494441
+239;Taranto - CISI;q.re Paolo VI - presso CISI Puglia;333;34;Taranto;Taranto;TA;17.253416;40.520934
+215;Taranto - Machiavelli;Via Machiavelli;333;19;Taranto;Taranto;TA;17.225823;40.488608
+211;Taranto - San Vito;presso Colonia Marina;333;18;Taranto;Taranto;TA;17.225272;40.423328
+232;Taranto - Talsano;Talsano - presso scuola U.Foscolo;333;31;Taranto;Taranto;TA;17.283879;40.411943
+253;Torchiarolo - Fanin     ;Via FANIN SN - 72020 TORCHIAROLO;222;54;Torchiarolo;Brindisi;BR;18.047226;40.489447
+244;Torchiarolo-Don Minzoni;P.za Don Minzoni;222;8;Torchiarolo;Brindisi;BR;18.053991;40.487999
+251;Torchiarolo-Lendinuso;C.da MONTEVACCARO SN - 72020 TORCHIAROLO;222;53;Torchiarolo;Brindisi;BR;18.07888;40.517502
